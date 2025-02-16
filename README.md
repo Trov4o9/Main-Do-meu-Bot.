@@ -1,4 +1,4 @@
-### 💻 Main.py do meu Bot discord pessoal, que também uso para testes.
+### 💻 Terrain.py é um arquivo de script UPBGE 0.2.5 para ser usado em um plano subdividido como Component, ele irá gerar um simples terreno procedural, mas também tem uma surpresinha a cada geração do terreno tem uma chance de ser diferente.
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://Discordapp.com/users/1199338020088840272)
 
@@ -10,7 +10,7 @@
 
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://media.discordapp.net/attachments/1254095550190452768/1340432851673415781/Screenshot_20241003_185035_Discord.png?ex=67b256df&is=67b1055f&hm=55cf6f8b9c4ed8c678d20ce8647d4d66319c96f4e5ae44d33749b1d7d9d5e52c&=&format=webp&quality=lossless&width=796&height=949" />
+  <img align="center" alt="html5" src="https://cdn.discordapp.com/attachments/1340402402427404339/1340790622214422648/image.png?ex=67b3a413&is=67b25293&hm=af8fadacf148059c96e7511db477d6aae7450b1110a35b7e06f7a30e852f3f23&" />
 </div>
 
 
